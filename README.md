@@ -72,7 +72,8 @@ You are required to submit the following for review:
 
 * The URL of the deployed application:  https://cyberwindfall.github.io/PasswordGenerator/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. 
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.  
+:https://github.com/cyberwindfall/PasswordGenerator
 
 ---
 
